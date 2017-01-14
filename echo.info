@@ -1,0 +1,3 @@
+name = Echo
+description = Repeats everything you send to Eva.
+version = 0.1.0
